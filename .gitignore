@@ -1,0 +1,12 @@
+cmake-build-debug/
+CMakeFiles/
+CMakeCache.txt
+build.ninja
+cmake_install.cmake
+
+plots/.venv/
+plots/.idea/
+
+*.o
+*.exe
+*.out
