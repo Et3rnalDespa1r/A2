@@ -10,3 +10,6 @@ plots/.idea/
 *.o
 *.exe
 *.out
+.DS_Store
+.idea/
+a2
